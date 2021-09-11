@@ -10,10 +10,8 @@ body{
 }
 
 .B21{
-    width: 33vw;
-    height: 33vw;
-    max-width: 200px;
-    max-height: 200px;
+    width: 200px;
+    height: 200px;
     background-color: rgb(219, 219, 21);
     margin: 25px;
     padding: 17px;
@@ -21,10 +19,8 @@ body{
 }
 
 .B22{
-    width: 33vw;
-    height: 33vw;
-    max-width: 200px;
-    max-height: 200px;
+    width: 200px;
+    height: 200px;
     background-color: rgb(4, 136, 212);
     margin: 25px;
     padding: 17px;
