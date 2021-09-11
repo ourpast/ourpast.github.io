@@ -38,12 +38,12 @@ h1{
 
 .B2 img{
     width: 33vw;
-    height: 33vh;
+    height: 33vw;
     max-height: 300px;
     max-width: 300px;
     box-shadow: 3px 3px 3px black;
     background-color: white;
     padding: 8px;
-    margin: 30px;
+    margin: 25px;
 }
 
