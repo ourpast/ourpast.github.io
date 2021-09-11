@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(./图片/wood-texture-wild-hardwood-e68adc3402684d76a8f36b4238aaeda4.jpg);
+}
+
+#zhuye{
+    text-align: center;
+}
+
+.B21{
+    width: 33vw;
+    height: 33vw;
+    max-width: 200px;
+    max-height: 200px;
+    background-color: rgb(219, 219, 21);
+    margin: 25px;
+    padding: 17px;
+    box-shadow: 6px 6px 8px black;
+}
+
+.B22{
+    width: 33vw;
+    height: 33vw;
+    max-width: 200px;
+    max-height: 200px;
+    background-color: rgb(4, 136, 212);
+    margin: 25px;
+    padding: 17px;
+    box-shadow: 6px 6px 8px black;
+}
+
+h1{
+    font-weight: lighter;
+    font-size: 300%;
+    text-shadow: 2px 2px 3px white;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+h2{
+    font-size: 140%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    margin-top: 0;
+    font-size: 150%;
+
+}
+
+.C1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+

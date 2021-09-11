@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    background-image: url(./图片/主页背景图.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.B1{
+    display: flex;
+}
+
+h1{
+    font-size: 300%;
+    font-weight: lighter;
+    margin-bottom: 12px;
+}
+
+h2{
+    color: black;
+    font-size: 280%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+a{
+    font-weight: lighter;
+}
+
+a:visited{
+    color: black;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    word-spacing: 10px;
+    font-size: 130%;
+    font-weight: 500;
+    margin-top: 0%;
+}

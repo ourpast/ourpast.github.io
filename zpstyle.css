@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    height: 300vh;
+    background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);
+}
+
+h1{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 300%;
+    text-shadow: 3px 3px 3px rgb(0, 81, 255);
+    animation: ani1 1s linear forwards;
+    position: relative;
+    top: -300px;
+    margin-bottom: 0px;
+}
+
+@keyframes ani1 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 0px;
+    }
+}
+
+#zhuye{
+    text-align: center;
+}
+
+.B2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.B2 img{
+    width: 33vw;
+    max-width: 300px;
+    box-shadow: 3px 3px 3px black;
+    background-color: white;
+    padding: 8px;
+    margin: 30px;
+}
+
