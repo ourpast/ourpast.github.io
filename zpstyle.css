@@ -38,6 +38,8 @@ h1{
 
 .B2 img{
     width: 33vw;
+    height: 33vh;
+    max-height: 300px;
     max-width: 300px;
     box-shadow: 3px 3px 3px black;
     background-color: white;
